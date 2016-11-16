@@ -1,0 +1,23 @@
+/* step 1*/
+p {
+	border-bottom: 1px solid red;
+}
+
+.kermit {
+	border: 5px solid green;
+	border-radius: 25%;
+}
+
+#main-div-1 {
+	padding: 5%;
+}
+/* step2 */
+
+#main-div-2 .kermit {
+   border: 2px dotted purple;
+
+}
+
+#main-div-2 > p{
+	background-color: orange;
+}
